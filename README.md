@@ -3,7 +3,7 @@
 
 # Vuercel.js
 
-![Vercel][vercel-badge]
+![vercel-badge](vercel)
 
 <!-- LICENSE -->
 ## License
