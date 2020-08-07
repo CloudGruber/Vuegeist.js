@@ -1,11 +1,15 @@
 <template>
   <v-app>
-    <v-content>
-      <nuxt/>
-    </v-content>
+    <navbar/>
+    <nuxt/>
   </v-app>
 </template>
 
 <script>
-export default {};
+import navbar from "~/layouts/navbar.vue";
+export default {
+  components: {
+    navbar
+  }
+};
 </script>
