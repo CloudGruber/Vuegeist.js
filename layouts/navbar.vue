@@ -1,10 +1,9 @@
 <template lang="pug">
-div
-  zi-card(shadow)
-    zi-button hello
-        nuxt-link(to="/")
-    zi-button test
-        nuxt-link(to="/test/")
+zi-card(shadow)
+  nuxt-link(to="/")
+    zi-button(type="abort") Home
+  nuxt-link(to="/test/")
+    zi-button(type="abort") Blog
 </template>
 
 <script>
