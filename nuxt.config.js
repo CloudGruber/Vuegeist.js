@@ -15,8 +15,8 @@ export default {
   loading: { color: "#3b8070" },
   css: [
     "bulma/css/bulma.css",
-    "@zeit-ui/themes/index.css",
-    "@zeit-ui/vue/dist/zeit-ui.css"
+    "@geist-ui/themes/index.css",
+    "@geist-ui/vue/dist/geist-ui.css"
   ],
   webfontloader: {
     google: {
