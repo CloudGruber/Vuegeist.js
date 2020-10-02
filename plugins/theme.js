@@ -1,6 +1,6 @@
 import Vue from "vue";
-import ZeitUI from "@zeit-ui/vue";
-import "@zeit-ui/vue/dist/zeit-ui.css";
+import GeistUI from "@geist-ui/vue";
+import "@geist-ui/vue/dist/geist-ui.css"; // require style
 
-Vue.use(ZeitUI);
-ZeitUI.theme.enableDark();
+Vue.use(GeistUI);
+GeistUI.theme.enableDark();
