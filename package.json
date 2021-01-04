@@ -10,7 +10,7 @@
   "dependencies": {
     "@geist-ui/vue": "3.0.0",
     "@geist-ui/vue-icons": "1.0.2",
-    "@nuxtjs/axios": "5.12.2",
+    "@nuxtjs/axios": "5.12.5",
     "bulma": "0.9.1",
     "node-sass": "5.0.0",
     "nuxt": "2.14.7",
